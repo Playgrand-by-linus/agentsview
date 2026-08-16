@@ -300,6 +300,7 @@ thread JSON files.
 | OpenClaude            | `~/.openclaude/projects/`                                                                                                                                               |
 | Claude Cowork         | `~/Library/Application Support/Claude/local-agent-mode-sessions/` (macOS)                                                                                               |
 | Codex                 | `~/.codex/sessions/`                                                                                                                                                    |
+| Command Code          | `~/.commandcode/projects/`                                                                                                                                              |
 | Copilot CLI           | `~/.copilot/`                                                                                                                                                           |
 | Cortex Code           | `~/.snowflake/cortex/conversations/`                                                                                                                                    |
 | Cursor                | `~/.cursor/projects/`                                                                                                                                                   |
@@ -308,14 +309,15 @@ thread JSON files.
 | Gemini CLI            | `~/.gemini/`                                                                                                                                                            |
 | gptme                 | `~/.local/share/gptme/logs/`                                                                                                                                            |
 | Hermes Agent          | `~/.hermes/sessions/`                                                                                                                                                   |
+| IcodeMate             | `~/.local/share/icodemate/`                                                                                                                                             |
 | iFlow                 | `~/.iflow/projects/`                                                                                                                                                    |
 | Kilo                  | `~/.local/share/kilo/`                                                                                                                                                  |
-| Kimi                  | `~/.kimi/sessions/`                                                                                                                                                     |
+| Kimi                  | `~/.kimi/sessions/`, `~/.kimi-code/sessions/`                                                                                                                           |
 | Kiro CLI              | `~/.kiro/sessions/cli/`, `~/.local/share/kiro-cli/`                                                                                                                     |
 | Kiro IDE              | `~/Library/Application Support/Kiro/` (macOS)                                                                                                                           |
 | MiMoCode              | `~/.local/share/mimocode/`                                                                                                                                              |
 | Mistral Vibe          | `~/.vibe/logs/session/`                                                                                                                                                 |
-| OpenClaw              | `~/.openclaw/agents/`                                                                                                                                                   |
+| OpenClaw              | `~/.openclaw/agents/`, `~/.kimi_openclaw/agents/`                                                                                                                       |
 | OpenCode              | `~/.local/share/opencode/`                                                                                                                                              |
 | OpenHands CLI         | `~/.openhands/conversations/`                                                                                                                                           |
 | OhMyPi                | `~/.omp/agent/sessions/`                                                                                                                                                |
@@ -326,6 +328,7 @@ thread JSON files.
 | Qwen Code             | `~/.qwen/projects/`                                                                                                                                                     |
 | QwenPaw               | `~/.copaw/workspaces/`, `~/.qwenpaw/workspaces/`                                                                                                                        |
 | Reasonix              | `~/.reasonix/`, `%APPDATA%\\reasonix\\` (Windows)                                                                                                                       |
+| Shelley               | `~/.config/shelley/`                                                                                                                                                    |
 | VSCode Copilot        | `~/Library/Application Support/Code/User/` (macOS)                                                                                                                      |
 | Visual Studio Copilot | `%LOCALAPPDATA%\\Temp\\VSGitHubCopilotLogs\\traces\\` (Windows), `~/Library/Caches/VSGitHubCopilotLogs/traces/` (macOS), `~/.cache/VSGitHubCopilotLogs/traces/` (Linux) |
 | Warp                  | `~/.warp/` (platform-dependent)                                                                                                                                         |
